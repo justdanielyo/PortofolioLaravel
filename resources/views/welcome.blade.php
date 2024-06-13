@@ -13,7 +13,6 @@
     <div class="navbar">
       <ul class="list-nav">
         <li><a href="/home">About</a></li> 
-				{{-- href="/" akan mengarahkan kehalaman yang memiliki url / pada file routes/web.php --}}
         <li><a href="/portofolio">Portofolio</a></li>
         <li><a href="/kontak">Contact</a></li>
       </ul>

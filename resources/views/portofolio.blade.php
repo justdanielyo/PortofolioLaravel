@@ -5,7 +5,7 @@
         <h2 class="section-header">Portofolio</h2>
         <div class="gallery">
           <figure class="images">
-            <img src="../assets/img/portofolio.jpg" class="gallery-img" />
+            <img src="../assets/img/" class="gallery-img" />
             <figcaption>
               <h5 class="name">Project 1
               <span>
@@ -15,7 +15,7 @@
             </figcaption>
           </figure>
           <figure class="images">
-            <img src="../assets/img/portofolio.jpg" class="gallery-img" />
+            <img src="../assets/img/" class="gallery-img" />
             <figcaption>
               <h5 class="name">Project 2
               <span>
@@ -25,7 +25,7 @@
             </figcaption>
           </figure>
           <figure class="images">
-            <img src="../assets/img/portofolio.jpg" class="gallery-img" />
+            <img src="../assets/img/" class="gallery-img" />
             <figcaption>
               <h5 class="name">Project 3
                 <span>
